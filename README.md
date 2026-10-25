@@ -43,7 +43,7 @@ Analisis berfokus pada pola penyewaan sepeda berdasarkan waktu, kondisi cuaca, d
 ## 📁 Struktur File
 
 ```text
-project/
+submission/
 ├── dashboard.py       # Kode utama dashboard Streamlit
 ├── requirements.txt   # Daftar library Python
 └── viz_data.joblib    # File data/objek pendukung dashboard
